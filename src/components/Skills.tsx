@@ -4,7 +4,6 @@ const skills = [
     items: [
       { name: "React", level: 90 },
       { name: "Next.js", level: 90 },
-      { name: "Vue.js", level: 70 },
       { name: "Tailwind CSS", level: 95 },
       { name: "TypeScript", level: 90 },
     ],

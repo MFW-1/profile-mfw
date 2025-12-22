@@ -1,4 +1,4 @@
-import { FaReact, FaVuejs, FaLaravel, FaDatabase } from "react-icons/fa";
+import { FaReact, FaNode, FaLaravel, FaDatabase } from "react-icons/fa";
 import {
   SiNextdotjs,
   SiTailwindcss,
@@ -47,9 +47,9 @@ export default function HeroSection() {
             </span>
           </div>
           <div className="flex flex-col items-center gap-2 text-green-500">
-            <FaVuejs size={50} />
+            <FaNode size={50} />
             <span className="text-sm text-slate-700 dark:text-slate-300">
-              Vue
+              Node.js
             </span>
           </div>
           <div className="flex flex-col items-center gap-2 text-red-500">
